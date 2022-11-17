@@ -9,13 +9,13 @@ function Users() {
 
         <ul>
             <li>
-                <a href='users/mami'>mami hakkında</a>
+                <a href='users/ibrahim'>İbrahim hakkında bilgi almak için tıklayın</a>
             </li>
             <li>
-                <a href='/'>ibo hakkında</a>
+                <a href='/'>Ömer hakkında bilgi almak için tıklayın</a>
             </li>
             <li>
-                <a href='/'>esil hakkında</a>
+                <a href='/'>Hasan hakkında bilgi almak için tıklayın</a>
             </li>
         </ul>
     <Outlet />
