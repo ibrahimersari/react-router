@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Mami() {
+function Serkan() {
   return (
     <div>
         loremloremloremlorem
@@ -14,5 +14,5 @@ function Mami() {
   )
 }
 
-export default Mami
+export default Serkan
     

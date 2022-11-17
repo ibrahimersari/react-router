@@ -3,7 +3,7 @@ import './App.css';
 import About from './components/About';
 import Users from "./components/users/Users"; 
 import Home from "./components/Home";
-import Mami from "./components/users/Mami";
+import Serkan from "./components/users/Serkan";
 import {
   BrowserRouter as Router,
   Routes,
@@ -27,7 +27,7 @@ function App() {
         <Routes>
           <Route path="/about"  element={<About />} />
           <Route path="/users"  element={<Users />} />
-          <Route path='/users/mami' element={<Mami />}/>
+          <Route path='/users/serkan' element={<Serkan />}/>
           <Route path="/home"  element={<Home />} />
         </Routes>
       </div>

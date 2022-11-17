@@ -9,7 +9,7 @@ function Users() {
 
         <ul>
             <li>
-                <a href='users/ibrahim'>İbrahim hakkında bilgi almak için tıklayın</a>
+                <a href='users/serkan'>Serkan hakkında bilgi almak için tıklayın</a>
             </li>
             <li>
                 <a href='/'>Ömer hakkında bilgi almak için tıklayın</a>
